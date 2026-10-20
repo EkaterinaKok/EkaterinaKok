@@ -29,9 +29,15 @@
 ---
 
 ### 🏅 Навыки и статус
-![Java](https://img.shields.io/badge/Language-Java-orange) ![Spring](https://img.shields.io/badge/Framework-Spring%20Boot-lightblue) ![Database](https://img.shields.io/badge/DB-SQL-purple) ![Testing](https://img.shields.io/badge/Testing-JUnit/Mockito-green) ![Docker](https://img.shields.io/badge/Tooling-Docker-blue)
+![Java](https://img.shields.io/badge/Language-Java-orange) <br>
+![Spring](https://img.shields.io/badge/Framework-Spring%20Boot-lightblue) <br>
+![Database](https://img.shields.io/badge/DB-SQL-purple) <br>
+![Testing](https://img.shields.io/badge/Testing-JUnit/Mockito-green) <br>
+![Docker](https://img.shields.io/badge/Tooling-Docker-blue)<br>
 
-![Projects](https://img.shields.io/badge/Projects-3-blue) ![Learning](https://img.shields.io/badge/Status-Learning-purple) ![Code%20Quality](https://img.shields.io/badge/Focus-Clean%20Code-yellow)
+![Projects](https://img.shields.io/badge/Projects-3-blue) <br>
+![Learning](https://img.shields.io/badge/Status-Learning-purple) <br>
+![Code%20Quality](https://img.shields.io/badge/Focus-Clean%20Code-yellow)<br>
 
 ---
 
