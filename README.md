@@ -38,6 +38,7 @@
 ![Testing](https://img.shields.io/badge/Testing-JUnit/Mockito-green) <br>
 ![Docker](https://img.shields.io/badge/Tooling-Docker-blue)<br>
 
+
 ![Projects](https://img.shields.io/badge/Projects-3-blue) <br>
 ![Learning](https://img.shields.io/badge/Status-Learning-purple) <br>
 ![Code%20Quality](https://img.shields.io/badge/Focus-Clean%20Code-yellow)<br>
@@ -50,13 +51,13 @@
 ---
 
 ### 🤝 Чем могу быть полезна / Как со мной связаться
-- Готова к код‑ревью, обсуждению архитектурных решений и парному программированию.
+- Готова к код‑ревью, обсуждению архитектурных решений.
 - Люблю разбирать чужие репозитории и учиться на реальных примерах.
 - Открыта к стажировкам и пет‑проектам в команде.
 
 📬 Контакты:  
-- [Telegram](вставь_ссылку)  
-- [LinkedIn](вставь_ссылку)  
+- [Telegram](@k003ok)  
+- [E-mail](2356532@mail.ru)  
 
 --- 
 
