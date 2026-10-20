@@ -1,7 +1,9 @@
 
 <div align="center">
   <h1>👋 Привет, я Екатерина! </h1>
-  <p> Начинающий Java‑разработчик. Учусь писать чистый, поддерживаемый код и проектировать надёжные системы.</p>
+   <p style="font-size: 1.1rem; color: #bdc3de; max-width: 600px; margin: 15px auto 0 auto;">
+     Начинающий Java‑разработчик. Учусь писать чистый, поддерживаемый код и проектировать надёжные системы.
+   </p>
 </div>
 
 <div style="background: #1e1e2e; color: #c9d1d9; padding: 20px; border-radius: 12px; margin: 24px 0; border: 1px solid #303030;">
