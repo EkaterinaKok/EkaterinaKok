@@ -56,7 +56,7 @@
 - Открыта к стажировкам и пет‑проектам в команде.
 
 📬 Контакты:  
-- [Telegram](https://t.me/@k003ok)  
+- [Telegram](https://t.me/k003ok)  
 - [E-mail](mailto:2356532@mail.ru)  
 
 --- 
